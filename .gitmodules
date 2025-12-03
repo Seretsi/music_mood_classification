@@ -1,3 +1,6 @@
 [submodule "data/deezer_mdd"]
 	path = data/deezer_mdd
 	url = https://github.com/deezer/deezer_mood_detection_dataset
+[submodule "mtg-jamendo-dataset"]
+	path = mtg-jamendo-dataset
+	url = https://github.com/MTG/mtg-jamendo-dataset
