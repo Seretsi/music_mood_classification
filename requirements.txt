@@ -1,2 +1,9 @@
+numpy
+--index-url https://download.pytorch.org/whl/cu126
+
 matplotlib
 pandas
+scipy
+torch
+torchvggish
+scikit-learn
