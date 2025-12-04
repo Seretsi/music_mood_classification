@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error
 class FAI_Sklearner:
     """docstring for FAI_Sklearner"""
 
-    def __init__(self,alpha=0.0001, learning_rate=1e-4, iterations=1000, loss='squared_error', model='sgdregressor'):
+    def __init__(self,alpha=0.0001, learning_rate=1e-4, iterations=1000, loss='squared_error', model='Sgdregressor'):
         self.learning_rate = learning_rate
         self.iterations = iterations
         self.weights = np.zeros((1, 4))
