@@ -23,3 +23,4 @@ The implementation files are:
 
 ### Lyrics Feature extraction and Classification
 
+`LyricsModel.ipynb` is our jupyter notebook entry point into our lyrics feature extraction and classification code.
