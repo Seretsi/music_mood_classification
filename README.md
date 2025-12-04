@@ -19,7 +19,7 @@ The implementation files are:
 
 ### Audio Feature extraction and Classification
 
-`FAI_Final_Project_Audio.ipynb` is our jupyter notebook entry point into our audio feature extraction and classification code.
+`FAI_Audio_Model_VGG.ipynb` is our jupyter notebook entry point into our audio feature extraction and classification code.
 
 ### Lyrics Feature extraction and Classification
 
